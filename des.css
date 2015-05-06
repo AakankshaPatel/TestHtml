@@ -1,1 +1,11 @@
-#body
+body
+{
+background-image:url('symphony.png');
+}
+#form
+{
+width: 270px;
+height: 117px;
+box-shadow: 1px 2px 2px 2px #888888;
+margin: 280 200 200 550;
+}
