@@ -1,0 +1,18 @@
+#header{
+position:relative;
+width:1366px;
+}
+#left{
+  width:50%;
+  background-color:blue;
+  float:left;
+
+}
+#right{
+  position:relative;
+    width:50%;
+  left:5px;
+      float:right;
+    top:5px;
+    background-color: #b0e0e6;
+}
